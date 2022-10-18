@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vibhupal
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning Java programming language..
+- 🌱 I’m currently learning C programming language..
 - 📫 How to reach me ...email me - vibhupal2107@gmail.com
 
 <!---
